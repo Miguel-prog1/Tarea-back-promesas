@@ -1,0 +1,20 @@
+{
+  "name": "tarea-back-promesas",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Miguel-prog1/Tarea-back-promesas#readme",
+  "bugs": {
+    "url": "https://github.com/Miguel-prog1/Tarea-back-promesas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguel-prog1/Tarea-back-promesas.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "miIndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
