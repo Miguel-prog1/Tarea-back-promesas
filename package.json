@@ -16,5 +16,8 @@
   "main": "miIndex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
