@@ -1,1 +1,1 @@
-Hola, aca se da la presentación a las actividades de back end, particularmente promesas. 
+Hola, aca se da la presentación a las actividades de back end, particularmente promesas, las actividades estan en la rama de develop. 
